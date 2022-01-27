@@ -6,7 +6,7 @@
 
 Project aims to create a Plant UI App.
 
-![gif](https://raw.githubusercontent.com/yhekim/React-Native-Travel-App/main/Plant_App.gif)
+![gif](https://raw.githubusercontent.com/yhekim/React-Native-Travel-App/main/Travel_App.gif)
 
 ## Available Scripts
 
